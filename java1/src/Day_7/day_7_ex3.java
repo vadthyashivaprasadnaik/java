@@ -11,6 +11,7 @@ public class day_7_ex3 {
 					String data=Reader.nextLine();
 					System.out.println(data);
 					//throw new FileNotFoundException("File kanipinchatle");
+					
 					}
 						
 					Reader.close();

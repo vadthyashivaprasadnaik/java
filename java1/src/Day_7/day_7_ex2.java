@@ -17,6 +17,7 @@ public class day_7_ex2 {
 			//System.out.println(e.getMessage());
 		//}
 		//finally is a block it execute whatever happens in the program 
+		//two exceptions also can be printed using throws.
 		
 	}
 
